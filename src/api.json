@@ -1,0 +1,803 @@
+{
+  "data" : {
+    "Typeahead_autocomplete" : {
+      "__typename" : "Typeahead_Response",
+      "resultsId" : "e90b1d7b-6296-4f6e-a61d-cb1e9992baa6_395e103b-ab0f-42c4-8552-ba07afc4c682",
+      "results" : [ {
+        "__typename" : "Typeahead_LocationItem",
+        "documentId" : "loc;20186367",
+        "detailsV2" : {
+          "__typename" : "LocationSelection_LocationInformationV2",
+          "locationId" : 20186367,
+          "isGeo" : false,
+          "placeType" : "ACTIVITY",
+          "names" : {
+            "__typename" : "LocationSelection_LocationNames",
+            "name" : "Snorkel boat tour in search of turtles",
+            "longOnlyHierarchyTypeaheadV2" : "Mahahual, Quintana Roo, Mexico"
+          },
+          "geocode" : null,
+          "contact" : {
+            "__typename" : "LocationSelection_LocationInformationV2Contact",
+            "streetAddress" : {
+              "__typename" : "LocationSelection_Address",
+              "street1" : null
+            }
+          },
+          "route" : null
+        },
+        "details" : {
+          "__typename" : "LocationInformation",
+          "socialStatistics" : {
+            "__typename" : "SocialStatistics",
+            "isSaved" : false
+          }
+        },
+        "image" : {
+          "__typename" : "PrimaryMedia_PrimaryMedia",
+          "photo" : {
+            "__typename" : "Photo",
+            "photoSizeDynamic" : {
+              "__typename" : "PhotoSizeDynamic",
+              "maxHeight" : 480,
+              "maxWidth" : 720,
+              "urlTemplate" : "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/f7/f6/ac/caption.jpg?w={width}&h={height}&s=1"
+            },
+            "photoSizes" : [ {
+              "__typename" : "PhotoSize",
+              "height" : 0,
+              "width" : 0,
+              "url" : "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/f7/f6/ac/caption.jpg?w=100&h=100&s=1"
+            }, {
+              "__typename" : "PhotoSize",
+              "height" : 50,
+              "width" : 50,
+              "url" : "https://media-cdn.tripadvisor.com/media/photo-t/1a/f7/f6/ac/caption.jpg"
+            }, {
+              "__typename" : "PhotoSize",
+              "height" : 150,
+              "width" : 150,
+              "url" : "https://media-cdn.tripadvisor.com/media/photo-l/1a/f7/f6/ac/caption.jpg"
+            }, {
+              "__typename" : "PhotoSize",
+              "height" : 200,
+              "width" : 180,
+              "url" : "https://media-cdn.tripadvisor.com/media/photo-i/1a/f7/f6/ac/caption.jpg"
+            }, {
+              "__typename" : "PhotoSize",
+              "height" : 167,
+              "width" : 250,
+              "url" : "https://media-cdn.tripadvisor.com/media/photo-f/1a/f7/f6/ac/caption.jpg"
+            }, {
+              "__typename" : "PhotoSize",
+              "height" : 367,
+              "width" : 550,
+              "url" : "https://media-cdn.tripadvisor.com/media/photo-s/1a/f7/f6/ac/caption.jpg"
+            }, {
+              "__typename" : "PhotoSize",
+              "height" : 480,
+              "width" : 720,
+              "url" : "https://media-cdn.tripadvisor.com/media/photo-o/1a/f7/f6/ac/caption.jpg"
+            } ]
+          }
+        }
+      }, {
+        "__typename" : "Typeahead_LocationItem",
+        "documentId" : "loc;15000981",
+        "detailsV2" : {
+          "__typename" : "LocationSelection_LocationInformationV2",
+          "locationId" : 15000981,
+          "isGeo" : false,
+          "placeType" : "ACTIVITY",
+          "names" : {
+            "__typename" : "LocationSelection_LocationNames",
+            "name" : "\"a journey in search of the Northern Lights\" Ⓥ | Small group 8 max | Photography",
+            "longOnlyHierarchyTypeaheadV2" : "Tromso, Norway"
+          },
+          "geocode" : null,
+          "contact" : {
+            "__typename" : "LocationSelection_LocationInformationV2Contact",
+            "streetAddress" : {
+              "__typename" : "LocationSelection_Address",
+              "street1" : null
+            }
+          },
+          "route" : null
+        },
+        "details" : {
+          "__typename" : "LocationInformation",
+          "socialStatistics" : {
+            "__typename" : "SocialStatistics",
+            "isSaved" : false
+          }
+        },
+        "image" : {
+          "__typename" : "PrimaryMedia_PrimaryMedia",
+          "photo" : {
+            "__typename" : "Photo",
+            "photoSizeDynamic" : {
+              "__typename" : "PhotoSizeDynamic",
+              "maxHeight" : 480,
+              "maxWidth" : 720,
+              "urlTemplate" : "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/2b/31/85/caption.jpg?w={width}&h={height}&s=1"
+            },
+            "photoSizes" : [ {
+              "__typename" : "PhotoSize",
+              "height" : 0,
+              "width" : 0,
+              "url" : "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/2b/31/85/caption.jpg?w=100&h=100&s=1"
+            }, {
+              "__typename" : "PhotoSize",
+              "height" : 50,
+              "width" : 50,
+              "url" : "https://media-cdn.tripadvisor.com/media/photo-t/1b/2b/31/85/caption.jpg"
+            }, {
+              "__typename" : "PhotoSize",
+              "height" : 150,
+              "width" : 150,
+              "url" : "https://media-cdn.tripadvisor.com/media/photo-l/1b/2b/31/85/caption.jpg"
+            }, {
+              "__typename" : "PhotoSize",
+              "height" : 200,
+              "width" : 180,
+              "url" : "https://media-cdn.tripadvisor.com/media/photo-i/1b/2b/31/85/caption.jpg"
+            }, {
+              "__typename" : "PhotoSize",
+              "height" : 167,
+              "width" : 250,
+              "url" : "https://media-cdn.tripadvisor.com/media/photo-f/1b/2b/31/85/caption.jpg"
+            }, {
+              "__typename" : "PhotoSize",
+              "height" : 367,
+              "width" : 550,
+              "url" : "https://media-cdn.tripadvisor.com/media/photo-s/1b/2b/31/85/caption.jpg"
+            }, {
+              "__typename" : "PhotoSize",
+              "height" : 480,
+              "width" : 720,
+              "url" : "https://media-cdn.tripadvisor.com/media/photo-o/1b/2b/31/85/caption.jpg"
+            } ]
+          }
+        }
+      }, {
+        "__typename" : "Typeahead_LocationItem",
+        "documentId" : "loc;19714321",
+        "detailsV2" : {
+          "__typename" : "LocationSelection_LocationInformationV2",
+          "locationId" : 19714321,
+          "isGeo" : false,
+          "placeType" : "ACTIVITY",
+          "names" : {
+            "__typename" : "LocationSelection_LocationNames",
+            "name" : "Dolphin Searching Tour in Puerto de Mogán (\"KEEPER UNO\" Boat)",
+            "longOnlyHierarchyTypeaheadV2" : "Gran Canaria, Gran Canaria, Spain"
+          },
+          "geocode" : null,
+          "contact" : {
+            "__typename" : "LocationSelection_LocationInformationV2Contact",
+            "streetAddress" : {
+              "__typename" : "LocationSelection_Address",
+              "street1" : null
+            }
+          },
+          "route" : null
+        },
+        "details" : {
+          "__typename" : "LocationInformation",
+          "socialStatistics" : {
+            "__typename" : "SocialStatistics",
+            "isSaved" : false
+          }
+        },
+        "image" : {
+          "__typename" : "PrimaryMedia_PrimaryMedia",
+          "photo" : {
+            "__typename" : "Photo",
+            "photoSizeDynamic" : {
+              "__typename" : "PhotoSizeDynamic",
+              "maxHeight" : 480,
+              "maxWidth" : 720,
+              "urlTemplate" : "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/5d/05/db/caption.jpg?w={width}&h={height}&s=1"
+            },
+            "photoSizes" : [ {
+              "__typename" : "PhotoSize",
+              "height" : 0,
+              "width" : 0,
+              "url" : "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/5d/05/db/caption.jpg?w=100&h=100&s=1"
+            }, {
+              "__typename" : "PhotoSize",
+              "height" : 50,
+              "width" : 50,
+              "url" : "https://media-cdn.tripadvisor.com/media/photo-t/1a/5d/05/db/caption.jpg"
+            }, {
+              "__typename" : "PhotoSize",
+              "height" : 150,
+              "width" : 150,
+              "url" : "https://media-cdn.tripadvisor.com/media/photo-l/1a/5d/05/db/caption.jpg"
+            }, {
+              "__typename" : "PhotoSize",
+              "height" : 200,
+              "width" : 180,
+              "url" : "https://media-cdn.tripadvisor.com/media/photo-i/1a/5d/05/db/caption.jpg"
+            }, {
+              "__typename" : "PhotoSize",
+              "height" : 167,
+              "width" : 250,
+              "url" : "https://media-cdn.tripadvisor.com/media/photo-f/1a/5d/05/db/caption.jpg"
+            }, {
+              "__typename" : "PhotoSize",
+              "height" : 367,
+              "width" : 550,
+              "url" : "https://media-cdn.tripadvisor.com/media/photo-s/1a/5d/05/db/caption.jpg"
+            }, {
+              "__typename" : "PhotoSize",
+              "height" : 480,
+              "width" : 720,
+              "url" : "https://media-cdn.tripadvisor.com/media/photo-o/1a/5d/05/db/caption.jpg"
+            } ]
+          }
+        }
+      }, {
+        "__typename" : "Typeahead_LocationItem",
+        "documentId" : "loc;11467443",
+        "detailsV2" : {
+          "__typename" : "LocationSelection_LocationInformationV2",
+          "locationId" : 11467443,
+          "isGeo" : false,
+          "placeType" : "ACTIVITY",
+          "names" : {
+            "__typename" : "LocationSelection_LocationNames",
+            "name" : "Chichagof Island Tour: Brown Bear Search",
+            "longOnlyHierarchyTypeaheadV2" : "Hoonah, Alaska"
+          },
+          "geocode" : null,
+          "contact" : {
+            "__typename" : "LocationSelection_LocationInformationV2Contact",
+            "streetAddress" : {
+              "__typename" : "LocationSelection_Address",
+              "street1" : null
+            }
+          },
+          "route" : null
+        },
+        "details" : {
+          "__typename" : "LocationInformation",
+          "socialStatistics" : {
+            "__typename" : "SocialStatistics",
+            "isSaved" : false
+          }
+        },
+        "image" : {
+          "__typename" : "PrimaryMedia_PrimaryMedia",
+          "photo" : {
+            "__typename" : "Photo",
+            "photoSizeDynamic" : {
+              "__typename" : "PhotoSizeDynamic",
+              "maxHeight" : 480,
+              "maxWidth" : 720,
+              "urlTemplate" : "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/c4/48/bb/caption.jpg?w={width}&h={height}&s=1"
+            },
+            "photoSizes" : [ {
+              "__typename" : "PhotoSize",
+              "height" : 0,
+              "width" : 0,
+              "url" : "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/c4/48/bb/caption.jpg?w=100&h=100&s=1"
+            }, {
+              "__typename" : "PhotoSize",
+              "height" : 50,
+              "width" : 50,
+              "url" : "https://media-cdn.tripadvisor.com/media/photo-t/1a/c4/48/bb/caption.jpg"
+            }, {
+              "__typename" : "PhotoSize",
+              "height" : 150,
+              "width" : 150,
+              "url" : "https://media-cdn.tripadvisor.com/media/photo-l/1a/c4/48/bb/caption.jpg"
+            }, {
+              "__typename" : "PhotoSize",
+              "height" : 200,
+              "width" : 180,
+              "url" : "https://media-cdn.tripadvisor.com/media/photo-i/1a/c4/48/bb/caption.jpg"
+            }, {
+              "__typename" : "PhotoSize",
+              "height" : 167,
+              "width" : 250,
+              "url" : "https://media-cdn.tripadvisor.com/media/photo-f/1a/c4/48/bb/caption.jpg"
+            }, {
+              "__typename" : "PhotoSize",
+              "height" : 367,
+              "width" : 550,
+              "url" : "https://media-cdn.tripadvisor.com/media/photo-s/1a/c4/48/bb/caption.jpg"
+            }, {
+              "__typename" : "PhotoSize",
+              "height" : 480,
+              "width" : 720,
+              "url" : "https://media-cdn.tripadvisor.com/media/photo-o/1a/c4/48/bb/caption.jpg"
+            } ]
+          }
+        }
+      }, {
+        "__typename" : "Typeahead_LocationItem",
+        "documentId" : "loc;12649199",
+        "detailsV2" : {
+          "__typename" : "LocationSelection_LocationInformationV2",
+          "locationId" : 12649199,
+          "isGeo" : false,
+          "placeType" : "ACTIVITY",
+          "names" : {
+            "__typename" : "LocationSelection_LocationNames",
+            "name" : "Half Day Snorkel in Lanai Island and Spinner Dolphin Search",
+            "longOnlyHierarchyTypeaheadV2" : "Maui, Hawaii"
+          },
+          "geocode" : null,
+          "contact" : {
+            "__typename" : "LocationSelection_LocationInformationV2Contact",
+            "streetAddress" : {
+              "__typename" : "LocationSelection_Address",
+              "street1" : null
+            }
+          },
+          "route" : null
+        },
+        "details" : {
+          "__typename" : "LocationInformation",
+          "socialStatistics" : {
+            "__typename" : "SocialStatistics",
+            "isSaved" : false
+          }
+        },
+        "image" : {
+          "__typename" : "PrimaryMedia_PrimaryMedia",
+          "photo" : {
+            "__typename" : "Photo",
+            "photoSizeDynamic" : {
+              "__typename" : "PhotoSizeDynamic",
+              "maxHeight" : 480,
+              "maxWidth" : 720,
+              "urlTemplate" : "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/4c/e7/cd/caption.jpg?w={width}&h={height}&s=1"
+            },
+            "photoSizes" : [ {
+              "__typename" : "PhotoSize",
+              "height" : 0,
+              "width" : 0,
+              "url" : "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/4c/e7/cd/caption.jpg?w=100&h=100&s=1"
+            }, {
+              "__typename" : "PhotoSize",
+              "height" : 50,
+              "width" : 50,
+              "url" : "https://media-cdn.tripadvisor.com/media/photo-t/1c/4c/e7/cd/caption.jpg"
+            }, {
+              "__typename" : "PhotoSize",
+              "height" : 150,
+              "width" : 150,
+              "url" : "https://media-cdn.tripadvisor.com/media/photo-l/1c/4c/e7/cd/caption.jpg"
+            }, {
+              "__typename" : "PhotoSize",
+              "height" : 200,
+              "width" : 180,
+              "url" : "https://media-cdn.tripadvisor.com/media/photo-i/1c/4c/e7/cd/caption.jpg"
+            }, {
+              "__typename" : "PhotoSize",
+              "height" : 167,
+              "width" : 250,
+              "url" : "https://media-cdn.tripadvisor.com/media/photo-f/1c/4c/e7/cd/caption.jpg"
+            }, {
+              "__typename" : "PhotoSize",
+              "height" : 367,
+              "width" : 550,
+              "url" : "https://media-cdn.tripadvisor.com/media/photo-s/1c/4c/e7/cd/caption.jpg"
+            }, {
+              "__typename" : "PhotoSize",
+              "height" : 480,
+              "width" : 720,
+              "url" : "https://media-cdn.tripadvisor.com/media/photo-o/1c/4c/e7/cd/caption.jpg"
+            } ]
+          }
+        }
+      }, {
+        "__typename" : "Typeahead_LocationItem",
+        "documentId" : "loc;13381119",
+        "detailsV2" : {
+          "__typename" : "LocationSelection_LocationInformationV2",
+          "locationId" : 13381119,
+          "isGeo" : false,
+          "placeType" : "ACTIVITY",
+          "names" : {
+            "__typename" : "LocationSelection_LocationNames",
+            "name" : "Cloud Forest Tour in search of the Quezal",
+            "longOnlyHierarchyTypeaheadV2" : "Monteverde Cloud Forest Reserve, Costa Rica"
+          },
+          "geocode" : null,
+          "contact" : {
+            "__typename" : "LocationSelection_LocationInformationV2Contact",
+            "streetAddress" : {
+              "__typename" : "LocationSelection_Address",
+              "street1" : null
+            }
+          },
+          "route" : null
+        },
+        "details" : {
+          "__typename" : "LocationInformation",
+          "socialStatistics" : {
+            "__typename" : "SocialStatistics",
+            "isSaved" : false
+          }
+        },
+        "image" : {
+          "__typename" : "PrimaryMedia_PrimaryMedia",
+          "photo" : {
+            "__typename" : "Photo",
+            "photoSizeDynamic" : {
+              "__typename" : "PhotoSizeDynamic",
+              "maxHeight" : 480,
+              "maxWidth" : 720,
+              "urlTemplate" : "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/f3/d7/82/caption.jpg?w={width}&h={height}&s=1"
+            },
+            "photoSizes" : [ {
+              "__typename" : "PhotoSize",
+              "height" : 0,
+              "width" : 0,
+              "url" : "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/f3/d7/82/caption.jpg?w=100&h=100&s=1"
+            }, {
+              "__typename" : "PhotoSize",
+              "height" : 50,
+              "width" : 50,
+              "url" : "https://media-cdn.tripadvisor.com/media/photo-t/28/f3/d7/82/caption.jpg"
+            }, {
+              "__typename" : "PhotoSize",
+              "height" : 150,
+              "width" : 150,
+              "url" : "https://media-cdn.tripadvisor.com/media/photo-l/28/f3/d7/82/caption.jpg"
+            }, {
+              "__typename" : "PhotoSize",
+              "height" : 200,
+              "width" : 180,
+              "url" : "https://media-cdn.tripadvisor.com/media/photo-i/28/f3/d7/82/caption.jpg"
+            }, {
+              "__typename" : "PhotoSize",
+              "height" : 167,
+              "width" : 250,
+              "url" : "https://media-cdn.tripadvisor.com/media/photo-f/28/f3/d7/82/caption.jpg"
+            }, {
+              "__typename" : "PhotoSize",
+              "height" : 367,
+              "width" : 550,
+              "url" : "https://media-cdn.tripadvisor.com/media/photo-s/28/f3/d7/82/caption.jpg"
+            }, {
+              "__typename" : "PhotoSize",
+              "height" : 480,
+              "width" : 720,
+              "url" : "https://media-cdn.tripadvisor.com/media/photo-o/28/f3/d7/82/caption.jpg"
+            } ]
+          }
+        }
+      }, {
+        "__typename" : "Typeahead_LocationItem",
+        "documentId" : "loc;17428335",
+        "detailsV2" : {
+          "__typename" : "LocationSelection_LocationInformationV2",
+          "locationId" : 17428335,
+          "isGeo" : false,
+          "placeType" : "ACTIVITY",
+          "names" : {
+            "__typename" : "LocationSelection_LocationNames",
+            "name" : "Dolphin watching - In search of dolphins in the Gulf of Catania",
+            "longOnlyHierarchyTypeaheadV2" : "Sicily, Italy"
+          },
+          "geocode" : null,
+          "contact" : {
+            "__typename" : "LocationSelection_LocationInformationV2Contact",
+            "streetAddress" : {
+              "__typename" : "LocationSelection_Address",
+              "street1" : null
+            }
+          },
+          "route" : null
+        },
+        "details" : {
+          "__typename" : "LocationInformation",
+          "socialStatistics" : {
+            "__typename" : "SocialStatistics",
+            "isSaved" : false
+          }
+        },
+        "image" : {
+          "__typename" : "PrimaryMedia_PrimaryMedia",
+          "photo" : {
+            "__typename" : "Photo",
+            "photoSizeDynamic" : {
+              "__typename" : "PhotoSizeDynamic",
+              "maxHeight" : 480,
+              "maxWidth" : 720,
+              "urlTemplate" : "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/7f/f3/07/caption.jpg?w={width}&h={height}&s=1"
+            },
+            "photoSizes" : [ {
+              "__typename" : "PhotoSize",
+              "height" : 0,
+              "width" : 0,
+              "url" : "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/7f/f3/07/caption.jpg?w=100&h=100&s=1"
+            }, {
+              "__typename" : "PhotoSize",
+              "height" : 50,
+              "width" : 50,
+              "url" : "https://media-cdn.tripadvisor.com/media/photo-t/1a/7f/f3/07/caption.jpg"
+            }, {
+              "__typename" : "PhotoSize",
+              "height" : 150,
+              "width" : 150,
+              "url" : "https://media-cdn.tripadvisor.com/media/photo-l/1a/7f/f3/07/caption.jpg"
+            }, {
+              "__typename" : "PhotoSize",
+              "height" : 200,
+              "width" : 180,
+              "url" : "https://media-cdn.tripadvisor.com/media/photo-i/1a/7f/f3/07/caption.jpg"
+            }, {
+              "__typename" : "PhotoSize",
+              "height" : 167,
+              "width" : 250,
+              "url" : "https://media-cdn.tripadvisor.com/media/photo-f/1a/7f/f3/07/caption.jpg"
+            }, {
+              "__typename" : "PhotoSize",
+              "height" : 367,
+              "width" : 550,
+              "url" : "https://media-cdn.tripadvisor.com/media/photo-s/1a/7f/f3/07/caption.jpg"
+            }, {
+              "__typename" : "PhotoSize",
+              "height" : 480,
+              "width" : 720,
+              "url" : "https://media-cdn.tripadvisor.com/media/photo-o/1a/7f/f3/07/caption.jpg"
+            } ]
+          }
+        }
+      }, {
+        "__typename" : "Typeahead_LocationItem",
+        "documentId" : "loc;12990573",
+        "detailsV2" : {
+          "__typename" : "LocationSelection_LocationInformationV2",
+          "locationId" : 12990573,
+          "isGeo" : false,
+          "placeType" : "ACTIVITY",
+          "names" : {
+            "__typename" : "LocationSelection_LocationNames",
+            "name" : "Volcano Adventure - Search the Most Recent Active Volcano from Kona",
+            "longOnlyHierarchyTypeaheadV2" : "Puako, Hawaii"
+          },
+          "geocode" : null,
+          "contact" : {
+            "__typename" : "LocationSelection_LocationInformationV2Contact",
+            "streetAddress" : {
+              "__typename" : "LocationSelection_Address",
+              "street1" : null
+            }
+          },
+          "route" : null
+        },
+        "details" : {
+          "__typename" : "LocationInformation",
+          "socialStatistics" : {
+            "__typename" : "SocialStatistics",
+            "isSaved" : false
+          }
+        },
+        "image" : {
+          "__typename" : "PrimaryMedia_PrimaryMedia",
+          "photo" : {
+            "__typename" : "Photo",
+            "photoSizeDynamic" : {
+              "__typename" : "PhotoSizeDynamic",
+              "maxHeight" : 480,
+              "maxWidth" : 720,
+              "urlTemplate" : "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/bb/69/20/caption.jpg?w={width}&h={height}&s=1"
+            },
+            "photoSizes" : [ {
+              "__typename" : "PhotoSize",
+              "height" : 0,
+              "width" : 0,
+              "url" : "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/bb/69/20/caption.jpg?w=100&h=100&s=1"
+            }, {
+              "__typename" : "PhotoSize",
+              "height" : 50,
+              "width" : 50,
+              "url" : "https://media-cdn.tripadvisor.com/media/photo-t/1c/bb/69/20/caption.jpg"
+            }, {
+              "__typename" : "PhotoSize",
+              "height" : 150,
+              "width" : 150,
+              "url" : "https://media-cdn.tripadvisor.com/media/photo-l/1c/bb/69/20/caption.jpg"
+            }, {
+              "__typename" : "PhotoSize",
+              "height" : 200,
+              "width" : 180,
+              "url" : "https://media-cdn.tripadvisor.com/media/photo-i/1c/bb/69/20/caption.jpg"
+            }, {
+              "__typename" : "PhotoSize",
+              "height" : 167,
+              "width" : 250,
+              "url" : "https://media-cdn.tripadvisor.com/media/photo-f/1c/bb/69/20/caption.jpg"
+            }, {
+              "__typename" : "PhotoSize",
+              "height" : 367,
+              "width" : 550,
+              "url" : "https://media-cdn.tripadvisor.com/media/photo-s/1c/bb/69/20/caption.jpg"
+            }, {
+              "__typename" : "PhotoSize",
+              "height" : 480,
+              "width" : 720,
+              "url" : "https://media-cdn.tripadvisor.com/media/photo-o/1c/bb/69/20/caption.jpg"
+            } ]
+          }
+        }
+      }, {
+        "__typename" : "Typeahead_LocationItem",
+        "documentId" : "loc;25009481",
+        "detailsV2" : {
+          "__typename" : "LocationSelection_LocationInformationV2",
+          "locationId" : 25009481,
+          "isGeo" : false,
+          "placeType" : "ATTRACTION",
+          "names" : {
+            "__typename" : "LocationSelection_LocationNames",
+            "name" : "In Search of Italy",
+            "longOnlyHierarchyTypeaheadV2" : "Rome, Lazio, Italy"
+          },
+          "geocode" : null,
+          "contact" : {
+            "__typename" : "LocationSelection_LocationInformationV2Contact",
+            "streetAddress" : {
+              "__typename" : "LocationSelection_Address",
+              "street1" : "Piazza Mattei"
+            }
+          },
+          "route" : null
+        },
+        "details" : {
+          "__typename" : "LocationInformation",
+          "socialStatistics" : {
+            "__typename" : "SocialStatistics",
+            "isSaved" : false
+          }
+        },
+        "image" : {
+          "__typename" : "PrimaryMedia_PrimaryMedia",
+          "photo" : {
+            "__typename" : "Photo",
+            "photoSizeDynamic" : {
+              "__typename" : "PhotoSizeDynamic",
+              "maxHeight" : 2160,
+              "maxWidth" : 2160,
+              "urlTemplate" : "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/26/25/91/4f/caption.jpg?w={width}&h={height}&s=1"
+            },
+            "photoSizes" : [ {
+              "__typename" : "PhotoSize",
+              "height" : 0,
+              "width" : 0,
+              "url" : "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/26/25/91/4f/caption.jpg?w=100&h=100&s=1"
+            }, {
+              "__typename" : "PhotoSize",
+              "height" : 50,
+              "width" : 50,
+              "url" : "https://media-cdn.tripadvisor.com/media/photo-t/26/25/91/4f/caption.jpg"
+            }, {
+              "__typename" : "PhotoSize",
+              "height" : 150,
+              "width" : 150,
+              "url" : "https://media-cdn.tripadvisor.com/media/photo-l/26/25/91/4f/caption.jpg"
+            }, {
+              "__typename" : "PhotoSize",
+              "height" : 200,
+              "width" : 180,
+              "url" : "https://media-cdn.tripadvisor.com/media/photo-i/26/25/91/4f/caption.jpg"
+            }, {
+              "__typename" : "PhotoSize",
+              "height" : 205,
+              "width" : 205,
+              "url" : "https://media-cdn.tripadvisor.com/media/photo-f/26/25/91/4f/caption.jpg"
+            }, {
+              "__typename" : "PhotoSize",
+              "height" : 450,
+              "width" : 450,
+              "url" : "https://media-cdn.tripadvisor.com/media/photo-s/26/25/91/4f/caption.jpg"
+            }, {
+              "__typename" : "PhotoSize",
+              "height" : 550,
+              "width" : 550,
+              "url" : "https://media-cdn.tripadvisor.com/media/photo-p/26/25/91/4f/caption.jpg"
+            }, {
+              "__typename" : "PhotoSize",
+              "height" : 1024,
+              "width" : 1024,
+              "url" : "https://media-cdn.tripadvisor.com/media/photo-w/26/25/91/4f/caption.jpg"
+            }, {
+              "__typename" : "PhotoSize",
+              "height" : 1280,
+              "width" : 1280,
+              "url" : "https://media-cdn.tripadvisor.com/media/photo-m/1280/26/25/91/4f/caption.jpg"
+            } ]
+          }
+        }
+      }, {
+        "__typename" : "Typeahead_LocationItem",
+        "documentId" : "loc;11771787",
+        "detailsV2" : {
+          "__typename" : "LocationSelection_LocationInformationV2",
+          "locationId" : 11771787,
+          "isGeo" : false,
+          "placeType" : "ACTIVITY",
+          "names" : {
+            "__typename" : "LocationSelection_LocationNames",
+            "name" : "Snowmobile Safari to Search for the Northern Lights",
+            "longOnlyHierarchyTypeaheadV2" : "Rovaniemi, Finland"
+          },
+          "geocode" : null,
+          "contact" : {
+            "__typename" : "LocationSelection_LocationInformationV2Contact",
+            "streetAddress" : {
+              "__typename" : "LocationSelection_Address",
+              "street1" : null
+            }
+          },
+          "route" : null
+        },
+        "details" : {
+          "__typename" : "LocationInformation",
+          "socialStatistics" : {
+            "__typename" : "SocialStatistics",
+            "isSaved" : false
+          }
+        },
+        "image" : {
+          "__typename" : "PrimaryMedia_PrimaryMedia",
+          "photo" : {
+            "__typename" : "Photo",
+            "photoSizeDynamic" : {
+              "__typename" : "PhotoSizeDynamic",
+              "maxHeight" : 480,
+              "maxWidth" : 720,
+              "urlTemplate" : "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/38/df/e1/caption.jpg?w={width}&h={height}&s=1"
+            },
+            "photoSizes" : [ {
+              "__typename" : "PhotoSize",
+              "height" : 0,
+              "width" : 0,
+              "url" : "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/38/df/e1/caption.jpg?w=100&h=100&s=1"
+            }, {
+              "__typename" : "PhotoSize",
+              "height" : 50,
+              "width" : 50,
+              "url" : "https://media-cdn.tripadvisor.com/media/photo-t/1b/38/df/e1/caption.jpg"
+            }, {
+              "__typename" : "PhotoSize",
+              "height" : 150,
+              "width" : 150,
+              "url" : "https://media-cdn.tripadvisor.com/media/photo-l/1b/38/df/e1/caption.jpg"
+            }, {
+              "__typename" : "PhotoSize",
+              "height" : 200,
+              "width" : 180,
+              "url" : "https://media-cdn.tripadvisor.com/media/photo-i/1b/38/df/e1/caption.jpg"
+            }, {
+              "__typename" : "PhotoSize",
+              "height" : 167,
+              "width" : 250,
+              "url" : "https://media-cdn.tripadvisor.com/media/photo-f/1b/38/df/e1/caption.jpg"
+            }, {
+              "__typename" : "PhotoSize",
+              "height" : 367,
+              "width" : 550,
+              "url" : "https://media-cdn.tripadvisor.com/media/photo-s/1b/38/df/e1/caption.jpg"
+            }, {
+              "__typename" : "PhotoSize",
+              "height" : 480,
+              "width" : 720,
+              "url" : "https://media-cdn.tripadvisor.com/media/photo-o/1b/38/df/e1/caption.jpg"
+            } ]
+          }
+        }
+      }, {
+        "__typename" : "Typeahead_RescueResultItem",
+        "documentId" : "RESCUE",
+        "text" : "{search}"
+      } ]
+    }
+  }
+}
